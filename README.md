@@ -3,6 +3,10 @@
 ## Overview
 The Base Theme is a Shopify theme development setup that leverages modern tools such as Vite, TailwindCSS, and the Shopify CLI to streamline the development process. It allows for efficient local development, hot-reloading, and easy deployment to the Shopify store.
 
+### Install in the other themes.
+Follow this blog.
+[How to setup Shopify Vite with Tailwind CSS.](https://dev.to/prashant-ardeshana/how-to-setup-shopify-vite-with-tailwind-css-3fga)
+
 ## Dependencies
 Ensure you have the following dependencies installed before setting up the theme:
 - [Shopify CLI](https://shopify.dev/docs/themes/tools/cli) Shopify's command-line tool for managing themes.
