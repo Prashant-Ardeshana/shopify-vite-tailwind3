@@ -1,4 +1,4 @@
-# Magic Theme
+# Magic Theme test
 
 ## Overview
 The Base Theme is a Shopify theme development setup that leverages modern tools such as Vite, TailwindCSS, and the Shopify CLI to streamline the development process. It allows for efficient local development, hot-reloading, and easy deployment to the Shopify store.
